@@ -14,7 +14,7 @@ Realizado na Faculdade Cidade Verde, Desenvolvimento de Sistemas : 80 horas.
 Digital inovation One 
 ---------
 
-### [JavaScript](Digital%20Innovation%20One)
+### [Git](Digital%20Innovation%20One)
 - Introdução ao GitHub e comandos essenciais para trabalhar em equipe: 4 horas
 - Introdução ao Git e Controle de Versões : 2 horas
 
