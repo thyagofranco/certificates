@@ -1,8 +1,7 @@
 Minhas certificações 
 ====================
 
-Repositório contendo cerificações que me ajudaram a consolidar conhecimentos adquiridos nas documentações das tecnologias, 
-estudos em códigos opensource, talks feitas pela comunidade...
+Repositório contendo certificações que me ajudaram a consolidar conhecimentos adquiridos na documentação das tecnologias, fontes open source , talks e artigos da comunidade (youtube, medium.com, dev.to).
 
 Microsoft 
 ---------
