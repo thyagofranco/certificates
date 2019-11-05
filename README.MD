@@ -28,3 +28,9 @@ Digital inovation One
 
 ### [Scrum](Digital%20Innovation%20One)
 - Projetos ágeis com SCRUM : 2 horas
+
+
+Instituto Federal do Rio Grande de Sul
+--------------------------------------
+### [Javascript](IFRS)
+- Javascript Introdução, eventos , formulários, bibliotécas: 30 horas
