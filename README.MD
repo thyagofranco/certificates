@@ -34,3 +34,7 @@ Instituto Federal do Rio Grande de Sul
 --------------------------------------
 ### [Javascript](IFRS)
 - Javascript Introdução, eventos , formulários, bibliotécas: 30 horas
+
+
+### [Java Básico](IFRS)
+- Programação básica com Java I 
