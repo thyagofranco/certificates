@@ -37,4 +37,5 @@ Instituto Federal do Rio Grande de Sul
 
 
 ### [Java Básico](IFRS)
-- Programação básica com Java I 
+- Programação básica com Java I:  40 horas
+- Programação básica com Java II: 40 horas
