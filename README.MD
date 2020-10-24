@@ -44,8 +44,8 @@ Realizado na Faculdade Cidade Verde, Desenvolvimento de Sistemas : 80 horas.
 ## Alura
 
 ### [Java](HardSkills)
--Java 8: 12 horas
--Java e testes: Teste Driven Development com Junit: 12 horas 
+- Java 8: 12 horas
+- Java e testes: Teste Driven Development com Junit: 12 horas 
 
 
 # Soft Skills
@@ -57,6 +57,6 @@ Realizado na Faculdade Cidade Verde, Desenvolvimento de Sistemas : 80 horas.
 ## Digital inovation One 
 
 ### [Scrum](SoftSkills)
-Projetos ágeis com Scrum - 2 horas.
+Projetos ágeis com Scrum - 2 horas
 
 
