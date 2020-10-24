@@ -8,8 +8,7 @@ Repositório contendo certificações que me ajudaram a consolidar conhecimentos
 ## Microsoft 
 
 ### [Microsoft Students to Business](HardSkills)
-- 
-Realizado na Faculdade Cidade Verde, Desenvolvimento de Sistemas : 80 horas. 
+- Realizado na Faculdade Cidade Verde, Desenvolvimento de Sistemas : 80 horas. 
 
 
 ## Digital inovation One 
@@ -57,6 +56,6 @@ Realizado na Faculdade Cidade Verde, Desenvolvimento de Sistemas : 80 horas.
 ## Digital inovation One 
 
 ### [Scrum](SoftSkills)
-Projetos ágeis com Scrum - 2 horas
+- Projetos ágeis com Scrum - 2 horas
 
 
