@@ -40,7 +40,7 @@ Repositório contendo certificações que me ajudaram a consolidar conhecimentos
 - Programação básica com Java I:  40 horas
 - Programação básica com Java II: 40 horas
 
-### [Botcamp Java Developor](HardSkills)
+### [Bootcamp Java Developor](HardSkills)
 - Lógica de programação essencial: 4 horas
 - Introdução ao Git e Controle de Versões: 2 horas
 - Introdução ao GitHub e comandos para trabalhar em equipe: 4 horas
