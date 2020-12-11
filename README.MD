@@ -13,34 +13,7 @@ Repositório contendo certificações que me ajudaram a consolidar conhecimentos
 
 ## Digital inovation One 
 
-### [Git](HardSkills)
-- Introdução ao GitHub e comandos essenciais para trabalhar em equipe: 4 horas
-- Introdução ao Git e Controle de Versões : 2 horas
-
-
-### [JavaScript](HardSkills)
-- Javascript ES6 essencial : 2 horas
-- Javascript ES6 devensolvimento avançado : 4 horas
-
-### [Nodejs](HardSkills)
-- Introdução ao Noje.js com Express : 2 horas
-- Desenvolvimento back-end com Node.js : 3 horas
-
-### [Scrum](HardSkills)
-- Projetos ágeis com SCRUM : 2 horas
-
-
-## Instituto Federal do Rio Grande de Sul
-
-### [Javascript](HardSkills)
-- Javascript Introdução, eventos , formulários, bibliotécas: 30 horas
-
-
-### [Java Básico](HardSkills)
-- Programação básica com Java I:  40 horas
-- Programação básica com Java II: 40 horas
-
-### [Bootcamp Java Developor](HardSkills)
+### [Bootcamp Java Developer](HardSkills)
 - Lógica de programação essencial: 4 horas
 - Introdução ao Git e Controle de Versões: 2 horas
 - Introdução ao GitHub e comandos para trabalhar em equipe: 4 horas
@@ -63,6 +36,30 @@ Repositório contendo certificações que me ajudaram a consolidar conhecimentos
 - Aprenda a aplicar testes com Java: 2 horas
 - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja 6 horas
 
+### [Git](HardSkills)
+- Introdução ao GitHub e comandos essenciais para trabalhar em equipe: 4 horas
+- Introdução ao Git e Controle de Versões : 2 horas
+
+
+### [JavaScript](HardSkills)
+- Javascript ES6 essencial : 2 horas
+- Javascript ES6 devensolvimento avançado : 4 horas
+
+### [Nodejs](HardSkills)
+- Introdução ao Noje.js com Express : 2 horas
+- Desenvolvimento back-end com Node.js : 3 horas
+
+
+
+## Instituto Federal do Rio Grande de Sul
+
+### [Javascript](HardSkills)
+- Javascript Introdução, eventos , formulários, bibliotécas: 30 horas
+
+
+### [Java Básico](HardSkills)
+- Programação básica com Java I:  40 horas
+- Programação básica com Java II: 40 horas
 
 ## Alura
 
